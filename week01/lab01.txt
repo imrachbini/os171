@@ -21,3 +21,6 @@ drwxr-xr-x  2 imam.maulana52 StafCS 4096 Feb 15 20:37 week09
 drwxr-xr-x  2 imam.maulana52 StafCS 4096 Feb 15 20:37 week10
 drwxr-xr-x  2 imam.maulana52 StafCS 4096 Feb 15 20:40 xtra
 /home/fasilkom/mahasiswa/i/imam.maulana52/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 15 Feb 2017 at 21:39:40
