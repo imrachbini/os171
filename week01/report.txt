@@ -1,0 +1,6 @@
+Week 1 Tasks:
+- Introduction to Git
+- Introduction to CLI
+- Introduction to Scripting
+
+#Imam_Rachbini
