@@ -9,15 +9,15 @@ w01-170216-13-LR-About: Scripting part 2, From: Lecturer
 w01-170216-14-LR-About: Scripting part 3, From: Lecturer
 w01-170216-14-LR-About: Scripting part 3, From: Lecturer
 
-w02-170221-13-LR-About:
-w02-170221-13-LR-About:
-w02-170221-14-LR-About:
-w02-170221-14-LR-About:
+w02-170221-13-LR-About: Performance and Security, From: Lecturer
+w02-170221-13-LR-About: Performance and Security, From: Lecturer
+w02-170221-14-LR-About: Performance and Security, From: Lecturer
+w02-170221-14-LR-About: Performance and Security, From: Lecturer
 w02-170221-20-PS-About: week02 lab tasks
 w02-170221-20-PS-About: week02 lab tasks
 w02-170222-15-PS-About: week02 lab tasks
 w02-170222-15-PS-About: week02 lab tasks
-w02-170223-13-LR-About:
-w02-170223-13-LR-About:
-w02-170223-14-LR-About:
-w02-170223-14-LR-About:
+w02-170223-13-LR-About: Introduction to C programming, From: Lecturer
+w02-170223-13-LR-About: Introduction to C programming, From: Lecturer
+w02-170223-14-LR-About: Introduction to C programming, From: Lecturer
+w02-170223-14-LR-About: Introduction to C programming, From: Lecturer
