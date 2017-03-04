@@ -21,3 +21,18 @@ w02-170223-13-LR-About: Introduction to C programming, From: Lecturer
 w02-170223-13-LR-About: Introduction to C programming, From: Lecturer
 w02-170223-14-LR-About: Introduction to C programming, From: Lecturer
 w02-170223-14-LR-About: Introduction to C programming, From: Lecturer
+
+w03-170227-20-PS-About: week03 lab tasks
+w03-170227-20-PS-About: week03 lab tasks
+w03-170228-13-LR-About: lecturer session (forgot the topic) 
+w03-170228-13-LR-About: lecturer session (forgot the topic)
+w03-170228-14-PS-About: in-class practice
+w03-170228-14-PS-About: in-class practice
+w03-170301-20-LR-About: linux booting processes, From: web
+w03-170301-20-LR-About: sudo script, From: web
+w03-170302-13-LR-About: Startup, Boot, BIOS, From: Lecturer
+w03-170302-13-LR-About: Startup, Boot, BIOS, From: Lecturer
+w03-170302-14-LR-About: Startup, Boot, BIOS, From: Lecturer
+w03-170302-14-LR-About: Startup, Boot, BIOS, From: Lecturer
+w03-170304-12-PS-About: week03 lab tasks
+w03-170304-12-PS-About: week03 lab tasks
