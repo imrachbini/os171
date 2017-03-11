@@ -36,3 +36,18 @@ w03-170302-14-LR-About: Startup, Boot, BIOS, From: Lecturer
 w03-170302-14-LR-About: Startup, Boot, BIOS, From: Lecturer
 w03-170304-12-PS-About: week03 lab tasks
 w03-170304-12-PS-About: week03 lab tasks
+
+w04-170307-13-LR-About: I/O Process From: Lecturer
+w04-170307-13-LR-About: I/O Process From: Lecturer
+w04-170307-14-LR-About: I/O Process From: lecturer 
+w04-170307-14-LR-About: I/O Process From: lecturer
+w04-170308-13-LR-About: Pointer From: Lecturer
+w04-170308-13-LR-About: Pointer From: Lecturer
+w04-170308-14-LR-About: Pointer From: lecturer 
+w04-170308-14-LR-About: Pointer From: lecturer
+w04-170310-21-PS-About: week04 lab tasks
+w04-170310-21-PS-About: week04 lab tasks
+w04-170310-22-PS-About: week04 lab tasks
+w04-170310-22-PS-About: week04 lab tasks
+w04-170311-10-PS-About: week04 lab tasks
+w04-170311-10-PS-About: week04 lab tasks
