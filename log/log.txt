@@ -51,3 +51,15 @@ w04-170310-22-PS-About: week04 lab tasks
 w04-170310-22-PS-About: week04 lab tasks
 w04-170311-10-PS-About: week04 lab tasks
 w04-170311-10-PS-About: week04 lab tasks
+
+w05-170313-16-PS-About: Lab week05 tasks
+w05-170313-16-PS-About: Lab week05 tasks
+w05-170314-13-LS-About: System & Memory, From: Lecturer
+w05-170314-13-LS-About: System & Memory, From: Lecturer
+w05-170314-14-LS-About: System & Memory, From: Lecturer
+w05-170314-14-LS-About: System & Memory, From: Lecturer
+w05-170316-13-LS-About: System & Memory, From: Lecturer
+w05-170316-13-LS-About: System & Memory, From: Lecturer
+w05-170316-14-LS-About: System & Memory, From: Lecturer
+w05-170316-14-LS-About: System & Memory, From: Lecturer
+
